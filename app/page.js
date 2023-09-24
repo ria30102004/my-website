@@ -29,7 +29,7 @@ const page = () => {
     <div className='flex flex-col flex-nowrap'>
       <div className='mt-16 ml-48 text-xl' class='name'><h2>Ria Ambadan / Software Developer</h2></div>
       <div className='mt-8' class='project'><h3 className='text-center font-semibold'>Projects</h3>
-      <div className='' class='arrow'><FontAwesomeIcon icon={faAngleDown} className='h-8 mx-auto mt-1' /></div>
+      <div className='' class='arrow'><FontAwesomeIcon icon={faAngleDown} className='h-8' class="button" /></div>
       </div>
     </div>
     
