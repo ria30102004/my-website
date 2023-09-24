@@ -14,8 +14,8 @@ const page = () => {
     <nav>
       <ul>
         <li class="res" className=''><a href="#" className=''>Resume</a></li>
-        <li><a href="#"><FontAwesomeIcon icon={faGithub} className='h-10 w-10'></FontAwesomeIcon></a></li>
-        <li><a href="#"><FontAwesomeIcon icon={faLinkedin} className='h-10 w-10'></FontAwesomeIcon></a></li>
+        <li><a href="https://github.com/ria30102004"><FontAwesomeIcon icon={faGithub} className='h-10 w-10'></FontAwesomeIcon></a></li>
+        <li><a href="https://www.linkedin.com/in/ria-ambadan-a722a0238"><FontAwesomeIcon icon={faLinkedin} className='h-10 w-10'></FontAwesomeIcon></a></li>
       </ul>
     </nav>
     </div>
