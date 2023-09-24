@@ -102,10 +102,13 @@ h2{
   
   margin-top: 30vh;
 }
+h3{
+  margin-top: 40vh;
+}
 .button{
-  margin-top: 2vh;
-  margin-left: 48.5vw;
-  height: 6vh;
+  
+  
+  height: 8vh;
 }
 @media only screen and (max-width: 500px) {
 .container{
@@ -134,11 +137,16 @@ h3{
   position: absolute;
   top: 65%;
   left: 43%;
+  margin-bottom: 3vh;
+}
+.arrow{
+display: none;
 }
 .button{
+  display: none;
+  position: fixed;
+  top: 20vh;
   
-  margin-left: 46vw;
-  margin-top: 25vh;
 }
 }
 
